@@ -1,0 +1,42 @@
+* {box-sizing: border-box;
+margin: 0;}
+
+table {width: 100%;
+height: 100vh;}
+
+.elemento{border: solid;}
+
+td{
+    width: 5%;
+    height: 8vh;
+}
+.cor1{
+    background-color: rgb(0, 255, 0);
+}
+.cor2{
+    background-color: rgb(255, 115, 0);
+}
+.cor3{
+    background-color: yellow;
+}
+.cor4{
+background-color: red;
+}
+.cor5{
+    background-color: rgb(119, 201, 207);
+}
+.cor6{
+    background-color: rgb(6, 212, 109);
+}
+.cor7{
+    background-color: rgb(0, 0, 255);
+}
+.cor8{
+    background-color: rgb(13, 146, 255);
+}
+.cor9{
+    background-color: rgb(226, 15, 131);
+}
+.cor10{
+    background-color: rgb(48, 72, 153);
+}
