@@ -1,2 +1,0 @@
-# TabelaPeriodica
-Uma tabela periodica.
